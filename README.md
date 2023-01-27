@@ -1,4 +1,4 @@
 # PU_THE_ROOKIES_SYSTEM_DESIGN
 
-# FRONTEND REPO : 
-https://github.com/itamim-coder/sust_hackathon
+# CODE REPO : 
+https://github.com/masrafe53/sust_hackathon
